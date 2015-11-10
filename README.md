@@ -1,5 +1,3 @@
-# blog
+# blog.apperceptions.org
 
-blog.apperceptions.org
-
-gh-pages branch of this project
+This is the gh-pages branch of this project for the GitHub hosted blog for this project.
