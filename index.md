@@ -1,3 +1,8 @@
+---
+title: blog.apperceptions.org
+layout: post
+---
+
 # blog.apperceptions.org
 
 November 10, 2015 - 1:18 GMT-6
